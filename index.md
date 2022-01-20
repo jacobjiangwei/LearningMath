@@ -16,3 +16,4 @@
 
 [Lesson 2](https://github.com/jacobjiangwei/LearningMath/blob/main/lesson2.md)
 
+[Lesson 3](https://github.com/jacobjiangwei/LearningMath/blob/main/lesson3.md)
