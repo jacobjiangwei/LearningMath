@@ -139,14 +139,16 @@ m' * m^{-1} 三 k ( mod p)  = >  10 * 13 三 k ( mod 23) ， 于是可以推算�
 
 ### 接下来会将fermat's little theorem 
 
+
 属于我自行加菜，学习了证明方法
-![属于我自行加菜，学习了证明方法](https://github.com/jacobjiangwei/LearningMath/raw/main/IMG_2340.jpg)
+
+![属于我自行加菜，学习了证明方法](https://github.com/jacobjiangwei/LearningMath/raw/main/IMG_2305.jpg)
 
 ### Euler's theroem
 
 ![](https://github.com/jacobjiangwei/LearningMath/raw/main/IMG_2310.jpg)
 
 ### RSA 算法 
+![属于我自行加菜，学习了证明方法](https://github.com/jacobjiangwei/LearningMath/raw/main/IMG_2340.jpg)
 
-![属于我自行加菜，学习了证明方法](https://github.com/jacobjiangwei/LearningMath/raw/main/IMG_2305.jpg)
 ![测试代码](https://github.com/jacobjiangwei/LearningMath/raw/main/IMG_2341.jpg)
